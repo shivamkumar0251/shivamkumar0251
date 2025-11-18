@@ -85,8 +85,8 @@ Specializing in:
 
 ## 💻 GitHub Activity  
 <a href="https://github.com/kumarshivam04203">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kumarshivam04203&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam04203&layout=compact&theme=react&hide_border=true&langs_count=8&hide=php,java"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0251&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar0251&layout=compact&theme=react&hide_border=true&langs_count=8&hide=php,java"/>
 </a>
 
 ---
