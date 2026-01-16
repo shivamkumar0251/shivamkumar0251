@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Professional Summary  
-Full Stack & AI Developer with **2+ years of experience** building **production-grade SaaS and AI-powered applications**.  
+Full Stack & AI Developer with **2.6+ years of experience** building **production-grade SaaS and AI-powered applications**.  
 Hands-on experience in **frontend architecture, backend API integration, document automation, and cloud-native systems**.
 
 **What I work on:**  
